@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">MagentoDemo</string>
+    <string name="app_name">4BuyDemo</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="cart">Cart</string>
 </resources>
